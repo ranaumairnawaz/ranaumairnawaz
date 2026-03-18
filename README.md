@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=250&section=header&text=Rana%20Umair%20Nawaz&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Laravel%20%26%20React%20Developer&descAlignY=55&descFontSize=25" width="100%" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Founder-ZedX%20Solutions-6366F1?style=for-the-badge&logo=rocket" alt="Founder">
