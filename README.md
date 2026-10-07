@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Founder-ZedX%20Solutions-6366F1?style=for-the-badge&logo=rocket" alt="Founder">
   <img src="https://img.shields.io/badge/Experience-4+%20Years-4F46E5?style=for-the-badge" alt="Experience">
@@ -12,7 +10,7 @@
 I am a specialized **PHP Laravel Developer** with a passion for modernizing the web. As the founder of **ZedX Solutions**, I have delivered over 70 international freelance projects, bridging the gap between legacy systems and high-performance interactive experiences.
 
 * **Current Mission:** Converting legacy PHP/Blade systems into hybrid **React-based SPAs**.
-* **Active Project:** Lead Developer for the [Express Van](https://exprerss-van.zedx-solutions.com) platform.
+* **Active Project:** Lead Developer for the [Express Van](https://github.com/ranaumairnawaz/ExpressVan) platform.
 * **Vibe Coding:** Integrating AI-assisted tools like **Cursor** and **WindSurf** into the software lifecycle.
 
 ---
@@ -21,14 +19,30 @@ I am a specialized **PHP Laravel Developer** with a passion for modernizing the 
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Backend** | `PHP (Laravel/Core)` `MySQL` `CodeIgniter` |
+| **Backend** | `PHP (Laravel/Core)` `MySQL` `CodeIgniter` `RESTful APIs` |
 | **Frontend** | `React.js` `JavaScript` `TailwindCSS` `Bootstrap` `HTML5/CSS3` |
 | **Interactive** | `Gamified UI/UX` `Transition Animations` `Ripple Effects` |
-| **Tools** | `Postman` `Cursor` `WindSurf` `SQLite` `Unity` |
+| **Tools** | `Git & GitHub` `Postman` `Cursor` `WindSurf` `SQLite` `Unity` |
 
 ---
 
-### 🚀 Featured Project: Followers Max
+### 📂 Featured Repositories & Projects
+
+| Project | Tech Stack | Highlights / Description | Repository |
+| :--- | :--- | :--- | :---: |
+| **ExpressVan** | `Laravel` `MySQL` `Bootstrap` | Logistics, van delivery, and moving services booking & scheduling platform | [🔗 View Code](https://github.com/ranaumairnawaz/ExpressVan) |
+| **AsaanDukanMainApp** | `Laravel` `MySQL` `Blade` | Customer-facing multi-vendor digital storefront & e-commerce shopping experience | [🔗 View Code](https://github.com/ranaumairnawaz/AsaanDukanMainApp) |
+| **AsaanDukanMerchantApp** | `Laravel` `MySQL` `Bootstrap` | Dedicated merchant operations portal for store inventory, sales, and order fulfillment | [🔗 View Code](https://github.com/ranaumairnawaz/AsaanDukanMerchantApp) |
+| **TruCareRepairBooking** | `Laravel` `MySQL` `Blade` | Electronics & device repair appointment booking, tracking, and service management system | [🔗 View Code](https://github.com/ranaumairnawaz/TruCareRepairBooking) |
+| **ViaCartECommerce** | `Laravel` `MySQL` `Tailwind` | Modern e-commerce shopping platform with dynamic cart, checkout, and inventory | [🔗 View Code](https://github.com/ranaumairnawaz/ViaCartECommerce) |
+| **ZedXTaskManager** | `Laravel` `MySQL` `AdminLTE` | Internal project tracking and collaborative team task management dashboard by ZedX | [🔗 View Code](https://github.com/ranaumairnawaz/ZedXTaskManager) |
+| **Pax Republica 2.0** | `Laravel` `PHP` `MySQL` | Web application platform built with Laravel modern architecture | [🔗 View Code](https://github.com/ranaumairnawaz/pax_republica) |
+| **GPT33MiningApp** | `Laravel` `MySQL` `Web3/Crypto` | Cryptocurrency & token cloud mining simulation platform with investment analytics | [🔗 View Code](https://github.com/ranaumairnawaz/GPT33MiningApp) |
+| **LocalBettingPlatform** | `Laravel` `MySQL` `Realtime` | Real-time gaming predictions, odds calculation, and betting management platform | [🔗 View Code](https://github.com/ranaumairnawaz/LocalBettingPlatform) |
+
+---
+
+### 🚀 Upcoming Feature: Followers Max
 *Designing a premier Social Media Marketing (SMM) panel with a focus on automation and scalability.*
 
 <p align="center">
