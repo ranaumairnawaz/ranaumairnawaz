@@ -30,6 +30,7 @@ I am a specialized **PHP Laravel Developer** with a passion for modernizing the 
 
 | Project | Tech Stack | Highlights / Description | Repository |
 | :--- | :--- | :--- | :---: |
+| **FollowersMaxSMMPlatform** | `PHP` `MySQL` `Tailwind` | Automated SMM panel with reseller API integration, margin calculator, & admin suite | [🔗 View Code](https://github.com/ranaumairnawaz/FollowersMaxSMMPlatform) |
 | **ExpressVan** | `Laravel` `MySQL` `Bootstrap` | Logistics, van delivery, and moving services booking & scheduling platform | [🔗 View Code](https://github.com/ranaumairnawaz/ExpressVan) |
 | **AsaanDukanMainApp** | `Laravel` `MySQL` `Blade` | Customer-facing multi-vendor digital storefront & e-commerce shopping experience | [🔗 View Code](https://github.com/ranaumairnawaz/AsaanDukanMainApp) |
 | **AsaanDukanMerchantApp** | `Laravel` `MySQL` `Bootstrap` | Dedicated merchant operations portal for store inventory, sales, and order fulfillment | [🔗 View Code](https://github.com/ranaumairnawaz/AsaanDukanMerchantApp) |
@@ -42,15 +43,15 @@ I am a specialized **PHP Laravel Developer** with a passion for modernizing the 
 
 ---
 
-### 🚀 Upcoming Feature: Followers Max
-*Designing a premier Social Media Marketing (SMM) panel with a focus on automation and scalability.*
+### 🚀 Featured Architecture: FollowersMax SMM Platform
+*Engineered a high-performance Social Media Marketing (SMM) provider bridge with automation and scalability.*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge&logo=probot" alt="In Development">
-  <img src="https://img.shields.io/badge/Stack-Laravel%20+%20React-blue?style=for-the-badge&logo=laravel" alt="Stack">
+  <img src="https://img.shields.io/badge/Status-Live%20on%20GitHub-success?style=for-the-badge&logo=github" alt="Live on GitHub">
+  <img src="https://img.shields.io/badge/Stack-PHP%20+%20MySQL%20+%20Tailwind-blue?style=for-the-badge&logo=php" alt="Stack">
 </p>
 
-> **Coming Soon:** Followers Max will feature a fully automated booking and payment system, wrapped in a sleek, high-transition UI. 
+> [**Explore Repository**](https://github.com/ranaumairnawaz/FollowersMaxSMMPlatform) — Features instant upstream API order routing, custom profit margin scaling, payment proof workflow, and administrative analytics.
 
 ---
 
