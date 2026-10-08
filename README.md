@@ -26,6 +26,25 @@ I am a specialized **PHP Laravel Developer** with a passion for modernizing the 
 
 ---
 
+### ⏳ The Journey: Experience & Education
+
+#### 💼 Work Experience
+| Period | Role | Organization | Key Impact |
+| :--- | :--- | :--- | :--- |
+| **2022 — Present** | **Founder & Lead Developer** | **ZedX Solutions** | Spearheading international software engineering. Architected & shipped 70+ client systems spanning e-commerce, cloud SaaS, fintech, and custom enterprise ERPs. |
+| **2022 — Present** | **Senior Full-Stack Developer** | **Freelance (Fiverr / Direct)** | Designed and deployed 56+ high-performance web platforms with custom APIs, payment gateways, and real-time interactive frontends. |
+| **2020 — 2022** | **Account & IT Manager** | **Al-Haq Estate Developers** | Architected and maintained core operational infrastructure, including payroll automation, multi-branch inventory, and invoice reconciliation systems. |
+| **2019 — 2020** | **Frontend Developer (Intern)** | **IT Genesis** | Built modular, responsive web interfaces, interactive client dashboards, and cross-browser UI components. |
+
+#### 🎓 Education
+| Period | Degree / Qualification | Institution | Focus / Highlights |
+| :--- | :--- | :--- | :--- |
+| **2016 — 2020** | **Bachelor of Science in Information Technology (BS IT)** | **The Superior College** | Software Engineering, Database Systems, Web Architecture, Algorithms & Data Structures |
+| **2014 — 2016** | **FSc Pre-Engineering** | **Punjab Group of Colleges** | Advanced Mathematics, Analytical Problem Solving, Physical Sciences |
+| **2012 — 2014** | **Matriculation in Science** | **Govt. High School Imamia Colony** | Fundamental Sciences, Mathematics & Computer Basics |
+
+---
+
 ### 📂 Featured Repositories & Projects
 
 | Project | Tech Stack | Highlights / Description | Repository |
