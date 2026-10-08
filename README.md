@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Founder-ZedX%20Solutions-6366F1?style=for-the-badge&logo=rocket" alt="Founder">
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-PHP%20%7C%20Laravel-6366F1?style=for-the-badge&logo=laravel" alt="Full-Stack Developer">
   <img src="https://img.shields.io/badge/Experience-4+%20Years-4F46E5?style=for-the-badge" alt="Experience">
-  <img src="https://img.shields.io/badge/Projects-70+-0EA5E9?style=for-the-badge" alt="Projects">
+  <img src="https://img.shields.io/badge/Projects-50+-0EA5E9?style=for-the-badge" alt="Projects">
 </p>
 
 ---
 
 ### 🌌 The Digital Architect
-I am a specialized **PHP Laravel Developer** with a passion for modernizing the web. As the founder of **ZedX Solutions**, I have delivered over 70 international freelance projects, bridging the gap between legacy systems and high-performance interactive experiences.
+I am a specialized **PHP Laravel Developer** with a passion for modernizing the web. I have delivered over 50+ international freelance and enterprise projects, bridging the gap between legacy systems and high-performance interactive experiences.
 
 * **Current Mission:** Converting legacy PHP/Blade systems into hybrid **React-based SPAs**.
 * **Active Project:** Lead Developer for the [Express Van](https://github.com/ranaumairnawaz/ExpressVan) platform.
@@ -26,22 +26,21 @@ I am a specialized **PHP Laravel Developer** with a passion for modernizing the 
 
 ---
 
-### ⏳ The Journey: Experience & Education
+### ⏳ The Journey
 
 #### 💼 Work Experience
-| Period | Role | Organization | Key Impact |
+| Period | Role | Organization / Platform | Details |
 | :--- | :--- | :--- | :--- |
-| **2022 — Present** | **Founder & Lead Developer** | **ZedX Solutions** | Spearheading international software engineering. Architected & shipped 70+ client systems spanning e-commerce, cloud SaaS, fintech, and custom enterprise ERPs. |
-| **2022 — Present** | **Senior Full-Stack Developer** | **Freelance (Fiverr / Direct)** | Designed and deployed 56+ high-performance web platforms with custom APIs, payment gateways, and real-time interactive frontends. |
-| **2020 — 2022** | **Account & IT Manager** | **Al-Haq Estate Developers** | Architected and maintained core operational infrastructure, including payroll automation, multi-branch inventory, and invoice reconciliation systems. |
-| **2019 — 2020** | **Frontend Developer (Intern)** | **IT Genesis** | Built modular, responsive web interfaces, interactive client dashboards, and cross-browser UI components. |
+| **2022 — Present** | **PHP Laravel Developer** | **Fiverr \| Freelance** | Delivering high-performance web applications, bespoke APIs, e-commerce solutions, and custom SaaS platforms for international clients. |
+| **2020 — 2022** | **Account & IT Manager** | **Al-Haq Estate Developers** | Built and managed complex operational systems including payroll, multi-branch inventory, and invoice management modules. |
+| **2019 — 2020** | **Frontend Developer (Intern)** | **IT Genesis \| Model Town** | Gained professional experience in developing static and dynamic frontends for various web projects. |
 
 #### 🎓 Education
-| Period | Degree / Qualification | Institution | Focus / Highlights |
+| Period | Qualification | Institution | Focus & Highlights |
 | :--- | :--- | :--- | :--- |
-| **2016 — 2020** | **Bachelor of Science in Information Technology (BS IT)** | **The Superior College** | Software Engineering, Database Systems, Web Architecture, Algorithms & Data Structures |
-| **2014 — 2016** | **FSc Pre-Engineering** | **Punjab Group of Colleges** | Advanced Mathematics, Analytical Problem Solving, Physical Sciences |
-| **2012 — 2014** | **Matriculation in Science** | **Govt. High School Imamia Colony** | Fundamental Sciences, Mathematics & Computer Basics |
+| **2016 — 2020** | **BS Information Technology** | **The Superior College** | Acquired deep knowledge in software engineering, database management, and web development fundamentals. |
+| **2014 — 2016** | **FSc Pre-Engineering** | **Punjab Group of Colleges** | Developed strong analytical and mathematical skills, preparing for higher education in Information Technology. |
+| **2012 — 2014** | **Matriculation** | **Govt. High School Imamia Colony** | Completed secondary education with a focus on science, laying the groundwork for a future career in technology. |
 
 ---
 
@@ -58,7 +57,7 @@ I am a specialized **PHP Laravel Developer** with a passion for modernizing the 
 | **AsaanDukanMerchantApp** | `Laravel` `MySQL` `Bootstrap` | Dedicated merchant operations portal for store inventory, sales, and order fulfillment | [🔗 View Code](https://github.com/ranaumairnawaz/AsaanDukanMerchantApp) |
 | **TruCareRepairBooking** | `Laravel` `MySQL` `Blade` | Electronics & device repair appointment booking, tracking, and service management system | [🔗 View Code](https://github.com/ranaumairnawaz/TruCareRepairBooking) |
 | **ViaCartECommerce** | `Laravel` `MySQL` `Tailwind` | Modern e-commerce shopping platform with dynamic cart, checkout, and inventory | [🔗 View Code](https://github.com/ranaumairnawaz/ViaCartECommerce) |
-| **ZedXTaskManager** | `Laravel` `MySQL` `AdminLTE` | Internal project tracking and collaborative team task management dashboard by ZedX | [🔗 View Code](https://github.com/ranaumairnawaz/ZedXTaskManager) |
+| **ZedXTaskManager** | `Laravel` `MySQL` `AdminLTE` | Internal project tracking and collaborative team task management dashboard | [🔗 View Code](https://github.com/ranaumairnawaz/ZedXTaskManager) |
 | **Pax Republica 2.0** | `Laravel` `PHP` `MySQL` | Web application platform built with Laravel modern architecture | [🔗 View Code](https://github.com/ranaumairnawaz/pax_republica) |
 | **GPT33MiningApp** | `Laravel` `MySQL` `Web3/Crypto` | Cryptocurrency & token cloud mining simulation platform with investment analytics | [🔗 View Code](https://github.com/ranaumairnawaz/GPT33MiningApp) |
 | **LocalBettingPlatform** | `Laravel` `MySQL` `Realtime` | Real-time gaming predictions, odds calculation, and betting management platform | [🔗 View Code](https://github.com/ranaumairnawaz/LocalBettingPlatform) |
@@ -104,5 +103,5 @@ Inspired by the **"Initialize Game"** logic in my portfolio, I prioritize engage
 </p>
 
 <p align="center">
-  <i>© 2026 Rana Umair Nawaz | ZedX Solutions. All Rights Reserved.</i>
+  <i>© 2026 Rana Umair Nawaz. All Rights Reserved.</i>
 </p>
