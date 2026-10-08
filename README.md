@@ -31,6 +31,9 @@ I am a specialized **PHP Laravel Developer** with a passion for modernizing the 
 | Project | Tech Stack | Highlights / Description | Repository |
 | :--- | :--- | :--- | :---: |
 | **FollowersMaxSMMPlatform** | `PHP` `MySQL` `Tailwind` | Automated SMM panel with reseller API integration, margin calculator, & admin suite | [🔗 View Code](https://github.com/ranaumairnawaz/FollowersMaxSMMPlatform) |
+| **ExpiredDomainHunter** | `Laravel 11` `Livewire` `Tailwind` | AI-powered expired & dropped domain discovery and appraisal engine with web crons | [🔗 View Code](https://github.com/ranaumairnawaz/ExpiredDomainHunter) |
+| **PayQRAAdBasedEarningPlatform** | `Laravel 11` `MySQL` `PHP 8.3` | Ad-based PTC reward platform with multi-tier referrals, advertiser hub, & 20+ gateways | [🔗 View Code](https://github.com/ranaumairnawaz/PayQRAAdBasedEarningPlatform) |
+| **CryptoCoinStakingMiningPlatform** | `Laravel 11` `MySQL` `Web3/Crypto` | Cryptocurrency staking, cloud mining, token swap desk, and automated yield engine | [🔗 View Code](https://github.com/ranaumairnawaz/CryptoCoinStakingMiningPlatform) |
 | **ExpressVan** | `Laravel` `MySQL` `Bootstrap` | Logistics, van delivery, and moving services booking & scheduling platform | [🔗 View Code](https://github.com/ranaumairnawaz/ExpressVan) |
 | **AsaanDukanMainApp** | `Laravel` `MySQL` `Blade` | Customer-facing multi-vendor digital storefront & e-commerce shopping experience | [🔗 View Code](https://github.com/ranaumairnawaz/AsaanDukanMainApp) |
 | **AsaanDukanMerchantApp** | `Laravel` `MySQL` `Bootstrap` | Dedicated merchant operations portal for store inventory, sales, and order fulfillment | [🔗 View Code](https://github.com/ranaumairnawaz/AsaanDukanMerchantApp) |
