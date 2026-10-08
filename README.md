@@ -20,7 +20,7 @@ I am a specialized **PHP Laravel Developer** with a passion for modernizing the 
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Backend** | `PHP (Laravel/Core)` `MySQL` `CodeIgniter` `RESTful APIs` |
-| **Frontend** | `React.js` `JavaScript` `TailwindCSS` `Bootstrap` `HTML5/CSS3` |
+| **Frontend** |  `JavaScript` `TailwindCSS` `Bootstrap` `HTML5/CSS3` |
 | **Interactive** | `Gamified UI/UX` `Transition Animations` `Ripple Effects` |
 | **Tools** | `Git & GitHub` `Postman` `Cursor` `WindSurf` `SQLite` `Unity` |
 
@@ -64,22 +64,6 @@ I am a specialized **PHP Laravel Developer** with a passion for modernizing the 
 
 ---
 
-### 🚀 Featured Architecture: FollowersMax SMM Platform
-*Engineered a high-performance Social Media Marketing (SMM) provider bridge with automation and scalability.*
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Live%20on%20GitHub-success?style=for-the-badge&logo=github" alt="Live on GitHub">
-  <img src="https://img.shields.io/badge/Stack-PHP%20+%20MySQL%20+%20Tailwind-blue?style=for-the-badge&logo=php" alt="Stack">
-</p>
-
-> [**Explore Repository**](https://github.com/ranaumairnawaz/FollowersMaxSMMPlatform) — Features instant upstream API order routing, custom profit margin scaling, payment proof workflow, and administrative analytics.
-
----
-
-### 🎮 Interactive Development
-Inspired by the **"Initialize Game"** logic in my portfolio, I prioritize engagement. I am currently designing a personal portfolio that includes a developer-themed **Pac-Man clone** and advanced ripple effects for personal branding.
-
----
 
 ### 📊 GitHub Ecosystem
 <p align="center">
