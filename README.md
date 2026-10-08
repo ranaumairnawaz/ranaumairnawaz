@@ -64,7 +64,6 @@ I am a specialized **PHP Laravel Developer** with a passion for modernizing the 
 
 ---
 
-
 ### 📊 GitHub Ecosystem
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranaumairnawaz&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=6366F1&icon_color=0EA5E9" alt="Top Languages" />
