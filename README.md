@@ -48,6 +48,7 @@ I am a specialized **PHP Laravel Developer** with a passion for modernizing the 
 
 | Project | Tech Stack | Highlights / Description | Repository |
 | :--- | :--- | :--- | :---: |
+| **AlifPharmaERP** | `Laravel 12` `PHP 8.2` `Electron` | Enterprise pharmaceutical ERP with batch tracking, distributor invoicing, & cloud backups | [🔗 View Code](https://github.com/ranaumairnawaz/AlifPharmaERP) |
 | **FollowersMaxSMMPlatform** | `PHP` `MySQL` `Tailwind` | Automated SMM panel with reseller API integration, margin calculator, & admin suite | [🔗 View Code](https://github.com/ranaumairnawaz/FollowersMaxSMMPlatform) |
 | **ExpiredDomainHunter** | `Laravel 11` `Livewire` `Tailwind` | AI-powered expired & dropped domain discovery and appraisal engine with web crons | [🔗 View Code](https://github.com/ranaumairnawaz/ExpiredDomainHunter) |
 | **PayQRAAdBasedEarningPlatform** | `Laravel 11` `MySQL` `PHP 8.3` | Ad-based PTC reward platform with multi-tier referrals, advertiser hub, & 20+ gateways | [🔗 View Code](https://github.com/ranaumairnawaz/PayQRAAdBasedEarningPlatform) |
