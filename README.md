@@ -85,7 +85,3 @@ I am a specialized **PHP Laravel Developer** with a passion for modernizing the 
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
-
-<p align="center">
-  <i>© 2026 Rana Umair Nawaz. All Rights Reserved.</i>
-</p>
